@@ -1,2 +1,2 @@
-streamlit
-openai
+//Install these before running:
+pip install streamlit openai langchain google-auth google-api-python-client langchain-community
