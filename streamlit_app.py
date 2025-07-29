@@ -14,7 +14,7 @@ import tempfile
 DOC_ID = "1GeW5imtRw9AyOW0V9tiwxYsUGC8ZS6zXCr8GJLVqUwo"
 
 # --- PAGE UI ---
-st.set_page_config(page_title="📚 Homework Chatbot", layout="wide")
+st.set_page_config(page_title="Class IX Maths Homework Chatbot", layout="wide")
 st.title("📚 Homework Helper Chatbot")
 st.write("Ask anything from your notes. The chatbot only responds based on your document.")
 
